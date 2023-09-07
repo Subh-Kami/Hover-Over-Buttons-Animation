@@ -1,2 +1,2 @@
-# Glassmorphic Calculator with Animation
- Created using HTML, CSS and JS
+# Hover Button Animation
+ Created using HTML, CSS
